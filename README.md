@@ -1,15 +1,15 @@
-# SISnitch
+# SI Snitch
 
-SISnitch is a debugging tool for reading claims passed to Sitecore from Sitecore Identity, after transformation of those claims from Sitecore Identity. It can be helpful in:
+SI Snitch is a debugging tool for reading claims passed to Sitecore from Sitecore Identity, after transformation of those claims from Sitecore Identity. It can be helpful in:
 
 * Identifying claims that Sitecore is getting, and in what format
 * Ensuring group transformations in Sitecore Identity are being processed properly
 
-Since SISnitch passes all claims into the log file of the system, it's *highly recommended* that this only be used in development environments. Use at your own risk!
+Since SI Snitch dumps all claims into the log file of the system, it's *highly recommended* that this only be used in development environments. Use at your own risk!
 
 ## Usage
 
-* Build SISnitch
+* Build SI Snitch
 * Deploy assembly to /bin
 * Deploy configuration to App_Config/Environment
 * View claims in log files.
