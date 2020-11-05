@@ -1,5 +1,9 @@
 # SI Snitch
-[Blog post](https://sitecore.derekc.net/sisnitch-small-tool-to-debug-claims-coming-out-of-sitecore-identity/)
+[Original blog post](https://sitecore.derekc.net/sisnitch-small-tool-to-debug-claims-coming-out-of-sitecore-identity/)
+
+Robbert Hock is maintaining this tool for versions of Sitecore 9.3+.
+  * [Repository](https://github.com/KayeeNL/SI-Snitch)
+  * [Blog Post](https://www.kayee.nl/2020/11/05/sitecore-si-snitch-upgrade-to-support-versions-sitecore-9-3-sitecore-10-0-0/) on Kayee.NL
 
 SI Snitch is a debugging tool for reading claims passed to Sitecore from Sitecore Identity, after transformation of those claims from Sitecore Identity. It can be helpful in:
 
